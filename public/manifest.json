@@ -1,0 +1,19 @@
+{
+  "short_name": "AfriKivu Diabète",
+  "name": "AfriKivu Diabète Care & Ethno-Medical AI",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23059669'/><path d='M50 20 C35 35, 20 50, 50 80 C80 50, 65 35, 50 20 Z' fill='white'/><circle cx='50' cy='50' r='10' fill='%23047857'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "Suivi médical et traitement complémentaire du diabète par plantes africaines (Région Kivu & Afrique de l'Est), diagnostic IA clinique et IoT."
+}

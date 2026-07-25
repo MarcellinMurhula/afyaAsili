@@ -1,0 +1,6 @@
+{
+  "name": "AfriKivu Diabète Care & Ethno-Medical AI",
+  "description": "Application de suivi médical du diabète spécialisée dans les plantes médicinales africaines et la gastronomie de l'Afrique de l'Est/Kivu, avec diagnostic IA clinique multimodal (Kaggle), synchro objets connectés et support PWA hors-ligne.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
